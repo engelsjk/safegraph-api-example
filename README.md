@@ -6,7 +6,7 @@ A quick test of the [Safegraph Places API](https://docs.safegraph.com/reference)
 
 First, you'll need an .env file with a SAFEGRAPH_API_KEY variable.
 
-Then, to run a sample request...
+Now run the sample request...
 
 ```bash
 go run example.go
